@@ -1,0 +1,1 @@
+insert into tasks (description, done) values ('lern migrationaaaa','true');
